@@ -36144,12 +36144,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 44px;
+    min-height: 45px;
   }
 
   .u-header .u-image-1 {
     width: 122px;
-    left: -31px;
+    left: -19px;
     right: auto;
     height: auto;
     margin: initial;
