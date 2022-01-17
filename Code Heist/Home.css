@@ -9,26 +9,13 @@
 
 .u-section-1 .u-btn-1 {
   border-style: solid;
-  font-size: 0.9375rem;
+  font-size: 1.125rem;
   font-weight: 700;
-  margin: 420px auto 0 87px;
-  padding: 1px 22px 1px 21px;
+  margin: 439px auto 60px 62px;
+  padding: 5px 28px 5px 27px;
 }
 
 .u-section-1 .u-icon-1 {
-  color: rgb(0, 0, 0) !important;
-  font-size: 1.5334em;
-}
-
-.u-section-1 .u-btn-2 {
-  border-style: solid;
-  font-size: 0.9375rem;
-  font-weight: 700;
-  margin: 20px auto 60px 87px;
-  padding: 1px 22px 1px 21px;
-}
-
-.u-section-1 .u-icon-2 {
   color: rgb(0, 0, 0) !important;
   font-size: 1.5334em;
 }
@@ -39,12 +26,8 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 370px;
-    margin-left: 66px;
-  }
-
-  .u-section-1 .u-btn-2 {
-    margin-left: 66px;
+    margin-top: 380px;
+    margin-left: 40px;
   }
 }
 
@@ -54,14 +37,10 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 277px;
-    margin-left: 60px;
-  }
-
-  .u-section-1 .u-btn-2 {
-    margin-top: 13px;
-    margin-bottom: 52px;
-    margin-left: 60px;
+    font-size: 1rem;
+    margin-top: 296px;
+    margin-left: 29px;
+    padding: 2px 19px 3px 18px;
   }
 }
 
@@ -71,49 +50,31 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 235px;
-    margin-left: 21px;
-    padding: 0 9px 0 8px;
+    margin-top: 246px;
+    margin-left: 0;
+    padding-top: 3px;
+    padding-right: 9px;
+    padding-left: 8px;
   }
 
   .u-section-1 .u-icon-1 {
     font-size: 0.9375rem;
   }
-
-  .u-section-1 .u-btn-2 {
-    margin-top: 12px;
-    margin-bottom: 48px;
-    margin-left: 21px;
-    padding-top: 0;
-    padding-right: 10px;
-    padding-left: 9px;
-  }
-
-  .u-section-1 .u-icon-2 {
-    font-size: 0.9334em;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 236px;
+    min-height: 242px;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.625rem;
-    margin-top: 158px;
-    margin-left: 0;
-    padding-right: 3px;
-    padding-left: 1px;
-  }
-
-  .u-section-1 .u-btn-2 {
-    font-size: 0.625rem;
-    margin-top: 8px;
-    margin-bottom: 33px;
-    margin-left: 0;
-    padding-right: 2px;
-    padding-left: 1px;
+    margin-top: 176px;
+    margin-bottom: 41px;
+    margin-left: -12px;
+    padding-right: 5px;
+    padding-bottom: 4px;
+    padding-left: 5px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 597px;
