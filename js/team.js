@@ -111,7 +111,7 @@ var checkDark = function (){
         $('.logo').show();
         $('.logo-nav-light').hide();
         $('.logo-nav').show();
-        $('.dark-light-toggle').children().text('I want light mode');
+        $('.dark-light-toggle').children().text(' ');
     }
     else{
         $('body').removeClass('dark');
@@ -119,7 +119,7 @@ var checkDark = function (){
         $('.logo').hide();
         $('.logo-nav-light').show();
         $('.logo-nav').hide();
-        $('.dark-light-toggle').children().text('I want dark mode');
+        $('.dark-light-toggle').children().text(' ');
     }
 
 }
