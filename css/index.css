@@ -35,12 +35,12 @@ html {
 }
 .dark {
   color: #ffffff;
-  background-color: #202020;
+  background-color: #010409;
 }
 
 a {
   text-decoration: none;
-  color: #202020;
+  color: #010409;
 }
 
 .dark a {
@@ -48,7 +48,7 @@ a {
 }
 
 a:visited {
-  color: #202020;
+  color: #010409;
 }
 
 .dark a:visited {
@@ -216,7 +216,7 @@ body {
 }
 
 .dark .navbar {
-  background: #202020;
+  background: #010409;
 }
 
 .navbar-scrolled {
@@ -267,7 +267,7 @@ body {
 }
 
 .dark .main {
-  background: #202020;
+  background: #010409;
 }
 
 .menu {
@@ -336,7 +336,7 @@ body {
 }
 
 .dark .main-menu {
-  background: #202020;
+  background: #010409;
 }
 
 .main-menu-image {
@@ -506,7 +506,7 @@ body {
 .button-maker {
   text-align: center;
   line-height: 53px;
-  background: #202020;
+  background: #010409;
   color: #ffffff;
   height: 53px;
   width: 189px;
@@ -514,7 +514,7 @@ body {
   border-radius: 6px;
   margin: auto auto;
   cursor: pointer;
-  border: 1px solid #202020;
+  border: 1px solid #010409;
   transition: all 0.3s ease;
 }
 
@@ -524,8 +524,8 @@ input:focus {
 
 .text-field-maker {
   text-align: center;
-  border: 2px #202020 solid !important;
-  color: #202020;
+  border: 2px #010409 solid !important;
+  color: #010409;
   height: 53px;
   max-width: 280px;
   width: 90vw;
@@ -534,7 +534,7 @@ input:focus {
   display: block;
   margin: auto auto;
   cursor: pointer;
-  border: 1px solid #202020;
+  border: 1px solid #010409;
   transition: all 0.3s ease;
   font-size: 14px;
   font-weight: 200;
@@ -551,25 +551,25 @@ input:focus {
 }
 
 .dark .button-maker {
-  color: #202020;
+  color: #010409;
   background: #ffffff;
 }
 
 .dark .text-field-maker {
   border: 2px solid #ffffff !important;
-  background: #202020;
+  background: #010409;
   color: #ffffff;
 }
 
 .button-maker:hover {
   background: transparent;
-  border: 1px solid #202020;
-  color: #202020;
+  border: 1px solid #010409;
+  color: #010409;
 }
 
 .dark .button-maker:hover {
   color: #ffffff;
-  background: #202020;
+  background: #010409;
   border: 1px solid #ffffff;
 }
 
@@ -641,7 +641,7 @@ input:focus {
   }
 
   .dark .container-main {
-    background: #202020;
+    background: #010409;
   }
 
   .menu {
@@ -701,7 +701,7 @@ input:focus {
   }
 
   .dark .container-main {
-    background: #202020;
+    background: #010409;
   }
 
   .menu {
@@ -760,7 +760,7 @@ input:focus {
   }
 
   .dark .container-main {
-    background: #202020;
+    background: #010409;
   }
 
   .menu {
